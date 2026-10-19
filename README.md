@@ -9,9 +9,10 @@
 
 A full-stack responsive biographical web application (in Greek) dedicated to Olympic gold medalist **Miltos Tendoglou**. Developed as part of a **Web Technologies** university course, built with Node.js, Express, and Vanilla JavaScript.
 
-🔗 **[Live Demo on CodeSandbox](https://codesandbox.io/p/github/frijos11/Web-Technologies-Biography-of-Miltos-Tendoglou)**
+🔗 **[Live Demo on CodeSandbox](https://codesandbox.io/p/devbox/x8kfs4)**
 
 *Note: This application runs on a free CodeSandbox container. Please allow a few seconds for the Node.js server to wake up and the preview window to load.*
+
 ---
 
 ## 📖 Overview
